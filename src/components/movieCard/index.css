@@ -1,0 +1,13 @@
+.movie-card-li-El{
+    display: flex;
+    justify-content: center;
+    width:45%;
+    margin: 10px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    padding: 10px;;
+
+}
+
+.anim-cover-img{
+    height: 300px;;
+}
